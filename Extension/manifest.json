@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
     "name": "Carcinisation",
-    "description": "c a r c i n i s a t i o n",
+    "description": "You are not immune to Carcinisation.",
     "author": "FrostBird347",
     "homepage_url": "https://github.com/FrostBird347/Carcinisation",
   "permissions": ["declarativeContent"],

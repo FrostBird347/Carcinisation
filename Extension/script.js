@@ -25,7 +25,7 @@ if ((Math.random() * 100) < CrabAlertPercentage) {
 	</div>`);
 	document.addEventListener("securitypolicyviolation", (e) => {
 		if (e.srcElement.id == "c r a b  a l e r t") {
-			console.warn("Failed to run inline script! \nAttempting to use fallback...");
+			console.debug("Failed to run inline script! \nAttempting to use fallback...");
 			document.getElementById('c r a b  a l e r t').remove();
 		}
 	});

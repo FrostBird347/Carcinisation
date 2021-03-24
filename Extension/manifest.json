@@ -5,7 +5,7 @@
     "author": "FrostBird347",
     "homepage_url": "https://github.com/FrostBird347/Carcinisation",
   "permissions": ["declarativeContent"],
-      "version": "1.0.1",
+      "version": "1.0.2",
     "content_scripts": [
         {
             "matches": [

@@ -3,7 +3,7 @@ var CrabAlertPercentage = 1;
 if ((Math.random() * 100) < CrabAlertPercentage) {
 	document.body.insertAdjacentHTML('afterend', `
 	<style>
-		.crab__alert, .crab__alert * {
+		.crab__alert, .crab__alert p, .crab__alert img, .crab__alert * {
 			all: initial;
 			-webkit-user-select: none;
 			-webkit-user-drag: none;
